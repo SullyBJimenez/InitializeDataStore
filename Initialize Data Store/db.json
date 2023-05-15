@@ -1,0 +1,69 @@
+{
+  "users": [
+    {
+      "name": "Alexane Zieme",
+      "dob": "1985-10-3",
+      "email": "Alexane39@gmail.com",
+      "username": "Alexane24",
+      "password": "I8uRYL9b1S98Wsy",
+      "phone": "1-496-343-4927 x2334",
+      "streetaddress": "4017 Westley Spur",
+      "citystatezip": "Dietrichton, MI, 59910",
+      "latitude": "-86.9215",
+      "longitude": "41.2726",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/jm_denis/128.jpg"
+    },
+    {
+      "name": "Austin Spencer",
+      "dob": "1975-7-7",
+      "email": "Austin.Spencer@hotmail.com",
+      "username": "Austin.Spencer53",
+      "password": "xCIlCYeZwh51k76",
+      "phone": "(319) 275-2682",
+      "streetaddress": "44475 Reichert Wells",
+      "citystatezip": "North Renee, LA, 30445",
+      "latitude": "25.3990",
+      "longitude": "-169.7343",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/anaami/128.jpg"
+    },
+    {
+      "name": "Lonzo Wuckert",
+      "dob": "1965-2-3",
+      "email": "Lonzo59@hotmail.com",
+      "username": "Lonzo.Wuckert",
+      "password": "O1Aonbp3Bq8_aPi",
+      "phone": "1-597-459-6527 x50181",
+      "streetaddress": "52294 Aliya Manors",
+      "citystatezip": "Narcisoborough, MA, 45761-4555",
+      "latitude": "-80.0355",
+      "longitude": "32.0264",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/illyzoren/128.jpg"
+    },
+    {
+      "name": "Soledad Willms",
+      "dob": "1943-1-2",
+      "email": "Soledad.Willms69@gmail.com",
+      "username": "Soledad_Willms8",
+      "password": "ONKYbOGBkuQOI_V",
+      "phone": "479.430.4976",
+      "streetaddress": "0647 Elenora Isle",
+      "citystatezip": "Malvinashire, MN, 51119",
+      "latitude": "-34.3946",
+      "longitude": "117.9086",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/muringa/128.jpg"
+    },
+    {
+      "name": "Noemi Ratke PhD",
+      "dob": "1991-5-24",
+      "email": "Noemi62@hotmail.com",
+      "username": "Noemi18",
+      "password": "gdJm8kQWpehSlRJ",
+      "phone": "253.227.0076",
+      "streetaddress": "7053 Genesis Square",
+      "citystatezip": "South Leta, NC, 11403",
+      "latitude": "-64.5209",
+      "longitude": "92.0142",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/rachelreveley/128.jpg"
+    }
+  ]
+}
